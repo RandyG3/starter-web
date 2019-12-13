@@ -9,7 +9,7 @@
       
 # THANKS
 
-    <name>
+    Randy Galinat 
 
 # TECHNOLOGY COLOPHON
 
