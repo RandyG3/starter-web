@@ -2,6 +2,7 @@
 # The humans responsible & technology colophon
 
 Hi, I'm modifying before rebase
+Making a change to get a conflict
 
 # TEAM
 
