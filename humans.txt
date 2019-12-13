@@ -4,6 +4,8 @@
 Hi, I'm modifying before rebase
 Making a change to get a conflict
 
+doing some changes in local
+
 # TEAM
 
       Randy Galinat
