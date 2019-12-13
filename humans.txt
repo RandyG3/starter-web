@@ -3,8 +3,10 @@
 
 # TEAM
 
-    <name>  Randy Galinat <twitter>
-
+      Randy Galinat
+      tbear03@comcast.net
+      additional text
+      
 # THANKS
 
     <name>
