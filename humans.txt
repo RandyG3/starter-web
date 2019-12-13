@@ -15,4 +15,5 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+<<<<<<< HEAD
     Machine Leaning, AWS, Google Cloud
