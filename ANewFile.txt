@@ -1,1 +1,2 @@
 adding new file in Git Project - not tracked by Git
+addimg for stashing into new branch

@@ -24,3 +24,5 @@ doing some changes in local
  Machine Leaning, AWS, Google Cloud
 
 Adding notes on Git Stash/pop
+
+adding for stashing into branch
