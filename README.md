@@ -15,3 +15,5 @@ Sample website with plenty of files for demos
 ## Added more for rebase
 
 ## Another edit
+
+## Added new lectures for Stash
