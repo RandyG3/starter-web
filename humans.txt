@@ -22,3 +22,5 @@ doing some changes in local
     jQuery, Modernizr
 
  Machine Leaning, AWS, Google Cloud
+
+Adding notes on Git Stash
